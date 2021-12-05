@@ -20,9 +20,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/Discord-Haker-2321/Ocheanic.com?color=dark-green) ![Issues](https://img.shields.io/github/issues/Discord-Haker-2321/Ocheanic.com) ![License](https://img.shields.io/github/license/Discord-Haker-2321/Ocheanic.com) 
 
-## About The Project
 
-![Screen Shot](https://cdn.discordapp.com/attachments/891317805394325514/916997513762975754/Logo.jpg)
 This is My own website/Afk Site ,  AFK here so i can get money 
 
 ## Built With
