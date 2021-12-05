@@ -18,7 +18,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Discord-Haker-2321/Ocheanic.comk?color=dark-green) ![Issues](https://img.shields.io/github/issues/Discord-Haker-2321/Ocheanic.com) ![License](https://img.shields.io/github/license/Discord-Haker-2321/Ocheanic.com) 
+![Contributors](https://img.shields.io/github/contributors/Discord-Haker-2321/Ocheanic.com?color=dark-green) ![Issues](https://img.shields.io/github/issues/Discord-Haker-2321/Ocheanic.com) ![License](https://img.shields.io/github/license/Discord-Haker-2321/Ocheanic.com) 
 
 ## About The Project
 
